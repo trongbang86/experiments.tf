@@ -12,3 +12,8 @@ variable subscriber_email {
   type        = string
   description = "my email"
 }
+
+variable my_hash {
+  type        = string
+  description = "This is a hash value to enable randomness"
+}

@@ -3,5 +3,7 @@ variable "common" {
         max_elements = number
         max_budget = number
         subscriber_email = string
+        my_hash = string
+
     })
 }
